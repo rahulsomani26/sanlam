@@ -1,0 +1,11 @@
+implement the delete and put method   ( done )
+
+def delete(self,ISBN):
+    pass 
+
+
+def put(self,ISBN):
+    pass 
+    create / update 
+    
+implement some security function that comes inbuilt with werkzeug.security
